@@ -7,10 +7,10 @@ I'm from Bangladesh. I am a React developer. I do frontend development and also 
 
 Skills:  REACT / JS / HTML / CSS/ FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB
 
-- 🔭 I’m currently working on WhatsApp clone 
-- 🌱 I’m currently learning Full stack web development 
+- 🔭 I’m currently working on Barta real-time chat app 
+- 🌱 I’m currently learning MERN stack web development 
 - 👯 I’m looking to collaborate on new learner 
-- 🤔 I’m looking for help with professional web developers 
+- 🤔 I’m looking for Job as Junior web developer
 - 💬 Ask me about web development 
 - ⚡ Fun fact: I love to travel 
 
