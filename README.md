@@ -1,4 +1,4 @@
-[Blue Teal Geometric Technology Linkdln Banner](https://github.com/Tanvin-Ahmed/Tanvin-Ahmed/assets/71924916/8cda3142-6bc4-4759-a3c9-037471aa0b0b)
+![Blue Teal Geometric Technology Linkdln Banner](https://github.com/Tanvin-Ahmed/Tanvin-Ahmed/assets/71924916/8cda3142-6bc4-4759-a3c9-037471aa0b0b)
 
 
 
