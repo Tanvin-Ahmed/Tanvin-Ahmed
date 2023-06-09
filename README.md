@@ -1,9 +1,10 @@
-![I am GitHub Readme Generator's creator](https://wallpapercave.com/wp/wp8904080.jpg)
+![I am GitHub Readme Generator's creator](![Blue Teal Geometric Technology Linkdln Banner](https://github.com/Tanvin-Ahmed/Tanvin-Ahmed/assets/71924916/8cda3142-6bc4-4759-a3c9-037471aa0b0b)
+)
 
 # Hi there 👋, I am Tanvin Ahmed
-#### I am a web developer
+#### I am a full stack web developer
 
-I'm from Bangladesh. I am a React developer. I do frontend development and also know little bit backend development with Node.js.
+I'm from Bangladesh. I am a web developer. I do frontend development with react and with Node.js.
 
 Skills:  REACT / JS / HTML / CSS/ FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB / Python / MySQL
 
