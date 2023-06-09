@@ -5,12 +5,11 @@
 
 I'm from Bangladesh. I am a React developer. I do frontend development and also know little bit backend development with Node.js.
 
-Skills:  REACT / JS / HTML / CSS/ FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB
+Skills:  REACT / JS / HTML / CSS/ FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB / Python / MySQL
 
-- 🔭 I’m currently working on Barta real-time chat app 
-- 🌱 I’m currently learning MERN stack web development 
+- 🔭 I’m currently working on develop a website for a college 
+- 🌱 I’m currently learning MERN stack web development and python development
 - 👯 I’m looking to collaborate on new learner 
-- 🤔 I’m looking for Job as Junior web developer
 - 💬 Ask me about web development 
 - ⚡ Fun fact: I love to travel 
 
