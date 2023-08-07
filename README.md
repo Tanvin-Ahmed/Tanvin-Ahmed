@@ -1,4 +1,4 @@
-[cover](https://github.com/Tanvin-Ahmed/Tanvin-Ahmed/assets/71924916/7dadfa7a-ef62-4f1f-9c1f-c3c9d8f29193)
+![cover](https://github.com/Tanvin-Ahmed/Tanvin-Ahmed/assets/71924916/7dadfa7a-ef62-4f1f-9c1f-c3c9d8f29193)
 
 
 
