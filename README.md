@@ -6,9 +6,9 @@
 # Hi there 👋, I am Tanvin Ahmed
 #### I am a full stack web developer
 
-I'm from Bangladesh. I am a web developer. I do frontend development with react and with Node.js.
+I'm from Bangladesh. I am a web developer. I do frontend development with react js and backend with Node.js and Django.
 
-Skills:  REACT / JS / HTML / CSS/ FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB / Python / MySQL
+Skills:  REACT / JS / HTML / CSS/ FIREBASE/ NODE.JS/ EXPRESS.JS/ MONGODB / Python / Django / MySQL
 
 - 🔭 I’m currently working on develop a website for a college 
 - 🌱 I’m currently learning MERN stack web development and python development
