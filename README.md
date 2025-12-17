@@ -112,7 +112,6 @@ When I'm not coding, I enjoy exploring new destinations and experiencing differe
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanvin-Ahmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvin-Ahmed&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
