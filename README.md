@@ -112,27 +112,27 @@ When I'm not coding, I enjoy exploring new destinations and experiencing differe
 
 <br>
 
-<p align="center">
+<p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tanvin-Ahmed&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvin-Ahmed&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvin-Ahmed&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvin-Ahmed&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvin-Ahmed&theme=radical" alt="GitHub Profile Summary" />
+<p align="left">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvin-Ahmed&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 <br>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Tanvin-Ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
